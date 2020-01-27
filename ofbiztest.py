@@ -7,7 +7,7 @@ import time
 
 class OfbizTest:
 
-    def __init__(self):
+    def __init__(self, path):
         self.display = Display(visible=0, size=(1200, 800))
         self.display.start()
         
@@ -16,7 +16,7 @@ class OfbizTest:
         self.options.add_argument('--no-sandbox')
         self.options.add_argument('--proxy-server=127.0.0.1:3128')
         
-        self.chPATH = '/opt/chrome-driver/chromedriver_linux64/chromedriver'
+        self.chPATH = path
         self.driver = webdriver.Chrome(executable_path=self.chPATH, chrome_options=self.options)
         self.driver.implicitly_wait(10)
 

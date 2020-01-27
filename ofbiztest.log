@@ -1,68 +1,61 @@
-Fri Jan 24 17:54:09 2020 method: go, message: OT AIOps promotions category : OT AIOps eCommerce Store
-Fri Jan 24 17:54:20 2020 method: createAccount, message: Welcome Sean Clark! (Not You?  Click Here)
-Fri Jan 24 17:54:20 2020 method: searchByKeyword, message: Search by keyword 
-Fri Jan 24 17:54:22 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
-Fri Jan 24 17:54:27 2020 method: viewRandomProduct, message: Looking at product bpm
-Fri Jan 24 17:54:34 2020 method: addToCartFromView, message: OT.BPM : OT AIOps eCommerce Store
-Fri Jan 24 17:54:39 2020 method: searchByKeyword, message: Search by keyword platform
-Fri Jan 24 17:54:40 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
-Fri Jan 24 17:54:44 2020 method: viewProduct, message: Looking at product OT.PLATFORM
-Fri Jan 24 17:54:48 2020 method: addToCartFromView, message: OT.PLATFORM : OT AIOps eCommerce Store
-Fri Jan 24 17:54:53 2020 method: searchByKeyword, message: Search by keyword asum
-Fri Jan 24 17:54:54 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
-Fri Jan 24 17:54:57 2020 method: addToCart, message: OT.PLATFORM : OT AIOps eCommerce Store
-Fri Jan 24 17:55:01 2020 method: addRandomToCart, message: asum
-Fri Jan 24 17:55:03 2020 method: viewCart, message: Shopping Cart : OT AIOps eCommerce Store
-Fri Jan 24 17:55:42 2020 method: doQuickCheckout, message: Order Summary - Thank you for your order! : OT AIOps eCommerce Store
-Fri Jan 24 17:55:45 2020 method: buyProducts, message: Loop count = 3
-Fri Jan 24 17:55:47 2020 method: reset, message: Reset chrome driver
-Fri Jan 24 17:55:52 2020 method: go, message: OT AIOps promotions category : OT AIOps eCommerce Store
-Fri Jan 24 17:56:07 2020 method: createAccount, message: Welcome Daniel Stewart! (Not You?  Click Here)
-Fri Jan 24 17:56:07 2020 method: searchByKeyword, message: Search by keyword 
-Fri Jan 24 17:56:08 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
-Fri Jan 24 17:56:11 2020 method: viewRandomProduct, message: Looking at product platform
-Fri Jan 24 17:56:18 2020 method: addToCartFromView, message: OT.PLATFORM : OT AIOps eCommerce Store
-Fri Jan 24 17:56:22 2020 method: searchByKeyword, message: Search by keyword bpm
-Fri Jan 24 17:56:23 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
-Fri Jan 24 17:56:28 2020 method: viewProduct, message: Looking at product OT.BPM
-Fri Jan 24 17:56:34 2020 method: addToCartFromView, message: OT.BPM : OT AIOps eCommerce Store
-Fri Jan 24 17:56:39 2020 method: viewCart, message: Shopping Cart : OT AIOps eCommerce Store
-Fri Jan 24 17:57:11 2020 method: doQuickCheckout, message: Order Summary - Thank you for your order! : OT AIOps eCommerce Store
-Fri Jan 24 17:57:16 2020 method: buyProducts, message: Loop count = 2
-Fri Jan 24 17:57:18 2020 method: reset, message: Reset chrome driver
-Fri Jan 24 17:57:22 2020 method: go, message: OT AIOps promotions category : OT AIOps eCommerce Store
-Fri Jan 24 17:57:42 2020 method: login, message: Welcome Sean Clark! (Not You?  Click Here)
-Fri Jan 24 17:57:42 2020 method: searchByKeyword, message: Search by keyword rca
-Fri Jan 24 17:57:43 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
-Fri Jan 24 17:57:48 2020 method: addToCart, message: OT AIOps promotions category : OT AIOps eCommerce Store
-Fri Jan 24 17:57:50 2020 method: addRandomToCart, message: asum
-Fri Jan 24 17:57:54 2020 method: searchByKeyword, message: Search by keyword bpm
-Fri Jan 24 17:57:55 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
-Fri Jan 24 17:57:59 2020 method: viewProduct, message: Looking at product OT.BPM
-Fri Jan 24 17:58:02 2020 method: addToCartFromView, message: OT.BPM : OT AIOps eCommerce Store
-Fri Jan 24 17:58:07 2020 method: searchByKeyword, message: Search by keyword 
-Fri Jan 24 17:58:08 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
-Fri Jan 24 17:58:11 2020 method: addToCart, message: OT.BPM : OT AIOps eCommerce Store
-Fri Jan 24 17:58:16 2020 method: addRandomToCart, message: platform
-Fri Jan 24 17:58:21 2020 method: searchByKeyword, message: Search by keyword bpm
-Fri Jan 24 17:58:22 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
-Fri Jan 24 17:58:24 2020 method: viewProduct, message: Looking at product OT.BPM
-Fri Jan 24 17:58:28 2020 method: addToCartFromView, message: OT.BPM : OT AIOps eCommerce Store
-Fri Jan 24 17:58:34 2020 method: viewCart, message: Shopping Cart : OT AIOps eCommerce Store
-Fri Jan 24 17:58:59 2020 method: doQuickCheckout, message: Order Summary - Thank you for your order! : OT AIOps eCommerce Store
-Fri Jan 24 17:59:02 2020 method: buyProducts, message: Loop count = 4
-Fri Jan 24 17:59:03 2020 method: reset, message: Reset chrome driver
-Fri Jan 24 17:59:07 2020 method: go, message: OT AIOps promotions category : OT AIOps eCommerce Store
-Fri Jan 24 17:59:25 2020 method: login, message: Welcome!
-Fri Jan 24 17:59:26 2020 method: reset, message: Reset chrome driver
-Fri Jan 24 17:59:33 2020 method: go, message: OT AIOps promotions category : OT AIOps eCommerce Store
-Fri Jan 24 17:59:50 2020 method: login, message: Welcome Sean Clark! (Not You?  Click Here)
-Fri Jan 24 17:59:50 2020 method: searchByKeyword, message: Search by keyword platform
-Fri Jan 24 17:59:50 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
-Fri Jan 24 17:59:55 2020 method: reset, message: Reset chrome driver
-Fri Jan 24 17:59:58 2020 method: go, message: OT AIOps promotions category : OT AIOps eCommerce Store
-Fri Jan 24 18:00:18 2020 method: login, message: Welcome Sean Clark! (Not You?  Click Here)
-Fri Jan 24 18:00:19 2020 method: searchByKeyword, message: Search by keyword platform
-Fri Jan 24 18:00:19 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
-Fri Jan 24 18:00:24 2020 method: reset, message: Reset chrome driver
-Fri Jan 24 18:00:29 2020 method: finish, message: Closing self.driver
+Mon Jan 27 13:18:38 2020 method: go, message: OT AIOps promotions category : OT AIOps eCommerce Store
+Mon Jan 27 13:18:54 2020 method: createAccount, message: Welcome Sierra Daniel! (Not You?  Click Here)
+Mon Jan 27 13:18:54 2020 method: searchByKeyword, message: Search by keyword asum
+Mon Jan 27 13:18:54 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
+Mon Jan 27 13:18:58 2020 method: addToCart, message: OT AIOps promotions category : OT AIOps eCommerce Store
+Mon Jan 27 13:19:01 2020 method: addRandomToCart, message: asum
+Mon Jan 27 13:19:05 2020 method: viewCart, message: Shopping Cart : OT AIOps eCommerce Store
+Mon Jan 27 13:19:50 2020 method: doQuickCheckout, message: Order Summary - Thank you for your order! : OT AIOps eCommerce Store
+Mon Jan 27 13:19:54 2020 method: buyProducts, message: Loop count = 1
+Mon Jan 27 13:19:56 2020 method: reset, message: Reset chrome driver
+Mon Jan 27 13:20:01 2020 method: go, message: OT AIOps promotions category : OT AIOps eCommerce Store
+Mon Jan 27 13:20:15 2020 method: createAccount, message: Welcome Lauren Jones! (Not You?  Click Here)
+Mon Jan 27 13:20:15 2020 method: searchByKeyword, message: Search by keyword asum
+Mon Jan 27 13:20:17 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
+Mon Jan 27 13:20:20 2020 method: viewProduct, message: Looking at product OT.ASUM
+Mon Jan 27 13:20:24 2020 method: addToCartFromView, message: OT.ASUM : OT AIOps eCommerce Store
+Mon Jan 27 13:20:27 2020 method: viewCart, message: Shopping Cart : OT AIOps eCommerce Store
+Mon Jan 27 13:21:10 2020 method: doQuickCheckout, message: Order Summary - Thank you for your order! : OT AIOps eCommerce Store
+Mon Jan 27 13:21:13 2020 method: buyProducts, message: Loop count = 1
+Mon Jan 27 13:21:14 2020 method: reset, message: Reset chrome driver
+Mon Jan 27 13:21:21 2020 method: go, message: OT AIOps promotions category : OT AIOps eCommerce Store
+Mon Jan 27 13:21:37 2020 method: login, message: Welcome Sierra Daniel! (Not You?  Click Here)
+Mon Jan 27 13:21:37 2020 method: searchByKeyword, message: Search by keyword 
+Mon Jan 27 13:21:38 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
+Mon Jan 27 13:21:45 2020 method: addToCart, message: OT AIOps promotions category : OT AIOps eCommerce Store
+Mon Jan 27 13:21:49 2020 method: addRandomToCart, message: bpm
+Mon Jan 27 13:21:54 2020 method: viewCart, message: Shopping Cart : OT AIOps eCommerce Store
+Mon Jan 27 13:22:19 2020 method: doQuickCheckout, message: Order Summary - Thank you for your order! : OT AIOps eCommerce Store
+Mon Jan 27 13:22:21 2020 method: buyProducts, message: Loop count = 1
+Mon Jan 27 13:22:22 2020 method: reset, message: Reset chrome driver
+Mon Jan 27 13:22:26 2020 method: go, message: OT AIOps promotions category : OT AIOps eCommerce Store
+Mon Jan 27 13:22:39 2020 method: login, message: Welcome Lauren Jones! (Not You?  Click Here)
+Mon Jan 27 13:22:39 2020 method: searchByKeyword, message: Search by keyword platform
+Mon Jan 27 13:22:40 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
+Mon Jan 27 13:22:43 2020 method: viewProduct, message: Looking at product OT.PLATFORM
+Mon Jan 27 13:22:49 2020 method: addToCartFromView, message: OT.PLATFORM : OT AIOps eCommerce Store
+Mon Jan 27 13:22:53 2020 method: viewCart, message: Shopping Cart : OT AIOps eCommerce Store
+Mon Jan 27 13:23:36 2020 method: doQuickCheckout, message: Order Summary - Thank you for your order! : OT AIOps eCommerce Store
+Mon Jan 27 13:23:41 2020 method: buyProducts, message: Loop count = 1
+Mon Jan 27 13:23:43 2020 method: reset, message: Reset chrome driver
+Mon Jan 27 13:23:46 2020 method: go, message: OT AIOps promotions category : OT AIOps eCommerce Store
+Mon Jan 27 13:24:06 2020 method: login, message: Welcome Lauren Jones! (Not You?  Click Here)
+Mon Jan 27 13:24:06 2020 method: searchByKeyword, message: Search by keyword 
+Mon Jan 27 13:24:07 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
+Mon Jan 27 13:24:12 2020 method: viewRandomProduct, message: Looking at product bpm
+Mon Jan 27 13:24:19 2020 method: addToCartFromView, message: OT.BPM : OT AIOps eCommerce Store
+Mon Jan 27 13:24:23 2020 method: viewCart, message: Shopping Cart : OT AIOps eCommerce Store
+Mon Jan 27 13:24:42 2020 method: doQuickCheckout, message: Order Summary - Thank you for your order! : OT AIOps eCommerce Store
+Mon Jan 27 13:24:44 2020 method: buyProducts, message: Loop count = 1
+Mon Jan 27 13:24:46 2020 method: reset, message: Reset chrome driver
+Mon Jan 27 13:24:49 2020 method: go, message: OT AIOps promotions category : OT AIOps eCommerce Store
+Mon Jan 27 13:25:05 2020 method: login, message: Welcome Sierra Daniel! (Not You?  Click Here)
+Mon Jan 27 13:25:05 2020 method: searchByKeyword, message: Search by keyword asum
+Mon Jan 27 13:25:06 2020 method: searchAll, message: Search Results : OT AIOps eCommerce Store
+Mon Jan 27 13:25:10 2020 method: addToCart, message: OT AIOps promotions category : OT AIOps eCommerce Store
+Mon Jan 27 13:25:14 2020 method: addRandomToCart, message: asum
+Mon Jan 27 13:25:17 2020 method: viewCart, message: Shopping Cart : OT AIOps eCommerce Store
+Mon Jan 27 13:26:00 2020 method: doQuickCheckout, message: Order Summary - Thank you for your order! : OT AIOps eCommerce Store
+Mon Jan 27 13:26:04 2020 method: buyProducts, message: Loop count = 1
+Mon Jan 27 13:26:06 2020 method: reset, message: Reset chrome driver
+Mon Jan 27 13:26:10 2020 method: finish, message: Closing self.driver
