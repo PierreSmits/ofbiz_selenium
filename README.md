@@ -4,8 +4,8 @@
 
 Перед запуском нужно установить дополнительные либы:
 
-```pip install selenium``` (https://pypi.org/project/selenium/)
-```pip install faker``` (https://pypi.org/project/Faker/)
-```pip install PyVirtualDisplay``` (https://pypi.org/project/PyVirtualDisplay/)
+```pip install selenium``` (https://pypi.org/project/selenium/) <br/>
+```pip install faker``` (https://pypi.org/project/Faker/) <br/>
+```pip install PyVirtualDisplay``` (https://pypi.org/project/PyVirtualDisplay/) <br/>
 
 Запуск программы - ```python runtest.py {path-to-chrome-driver} {user-count}```
