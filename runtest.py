@@ -13,14 +13,14 @@ if __name__ == '__main__':
     keywords = ["asum", "bpm", "rca", "platform"]
 
     for i in range(userCount):
-        loops = random.choice(range(1, 2))
+        loops = random.choice(range(1, 3))
         test.go()
         test.createAccount(users.generate())
         test.buyProducts(keywords, loops)
         test.reset()
 
     for i in range(2*userCount):
-        loops = random.choice(range(1, 2))
+        loops = random.choice(range(1, 4))
         test.go()
         test.login(users.getRandomCredentials())
         try:
